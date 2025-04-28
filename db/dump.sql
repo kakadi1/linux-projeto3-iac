@@ -1,4 +1,3 @@
-CREATE DATABASE minha_db;
 USE minha_db;
 
 CREATE TABLE usuarios (
